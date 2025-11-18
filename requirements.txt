@@ -1,0 +1,16 @@
+# requirements.txt
+pandas==2.2.2
+pyarrow==17.0.0
+requests==2.32.3
+numpy==2.1.2
+seaborn==0.13.2
+matplotlib==3.9.2
+jupyterlab==4.2.5
+statsmodels==0.14.3
+prophet==1.1.5
+pydantic==2.9.2
+python-dotenv==1.0.1
+black==24.10.0
+flake8==7.1.1
+isort==5.13.2
+pre-commit==3.8.0
