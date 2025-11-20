@@ -28,12 +28,6 @@ Indicators: Health (SDG 3), Education (SDG 4), Water & Sanitation (SDG 6), Clima
 - Dashboards connect SDG data to **UN challenges** like famine, conflict, and climate shocks.
 
 ## 📂 Project Structure
- Forecasts show which countries are **on track vs. off track** for 2030 SDG targets.
-- Anomaly detection highlights **sudden declines** in food security or health.
-- Composite SDG Index enables **prioritization of funding** and interventions.
-- Dashboards connect SDG data to **UN challenges** like famine, conflict, and climate shocks.
-
-## 📂 Project Structure
 
 un-sdg-eastafrica/
 ├─ src/ # Python scripts (ingest, transform, ML)
